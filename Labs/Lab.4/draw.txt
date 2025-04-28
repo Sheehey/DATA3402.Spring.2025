@@ -1,0 +1,3 @@
+Rectangle = <paint.Rect object at 0x7f8db97b6e30>
+Triangle = <paint.Triangle object at 0x7f8db97b73a0>
+OverlapCircle = <paint.Circ object at 0x7f8db97b7f40>
